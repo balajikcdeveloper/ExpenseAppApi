@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_ATLAS_PW": "B!rthdayapp13105",
+        "PORT":"13105",
+        "JWT_KEY":"secret"
+    }
+}
