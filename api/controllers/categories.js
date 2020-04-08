@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const baseURL = 'http://localhost:13105';
+const baseURL = 'http://localhost:3000';
 
 const Category = require('../models/category');
 
