@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const baseURL = 'http://localhost:3000';
+const baseURL = 'https://eliya-web-app.herokuapp.com/';
 
 const Category = require('../models/category');
 
